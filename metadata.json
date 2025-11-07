@@ -1,0 +1,5 @@
+{
+  "name": "3-View Image Generator",
+  "description": "Upload an image of an object and this application will use AI to generate its front, side, and top view technical drawings.",
+  "requestFramePermissions": []
+}
